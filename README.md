@@ -105,3 +105,4 @@ LISTING ALL THE CVE details.
 ![image alt](https://github.com/manasikonidala/NVD-assesment/blob/bafd726fb0ebed05c8130ecc0746a51e0d5d72c5/WhatsApp%20Image%202025-01-11%20at%2017.08.10.jpeg)
 ![image alt](https://github.com/manasikonidala/NVD-assesment/blob/5f3ffb89f0e3c2d616ef399ee0ff8086fcfd00d4/WhatsApp%20Image%202025-01-11%20at%2017.08.11%20(1).jpeg)
 ![image alt](https://github.com/manasikonidala/NVD-assesment/blob/9414044c59a1b53c42097a42d25e1e2cb874f03d/WhatsApp%20Image%202025-01-11%20at%2017.08.12.jpeg)
+![image alt](https://github.com/manasikonidala/NVD-assesment/blob/86d768a3c76f93dce1a2c7867bd022ac18d47ea8/WhatsApp%20Image%202025-01-11%20at%2017.08.27.jpeg)
